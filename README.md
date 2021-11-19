@@ -14,4 +14,5 @@ puis on a appliqué la methode de point fixe sur les fonctions convergente pour 
 ## Exercice 4
 Methode de newton
 
-<br><br>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/main?labpath=TP1_E.ipynb)
+<br><br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/main?labpath=TP1_E.ipynb)
