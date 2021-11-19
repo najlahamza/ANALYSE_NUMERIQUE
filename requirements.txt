@@ -1,1 +1,2 @@
-
+ANACONDA For windows
+Jupyter
