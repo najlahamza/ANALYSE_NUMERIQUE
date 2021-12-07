@@ -16,3 +16,5 @@ Methode de newton
 
 <br><br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/main?labpath=TP1_E.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/167b38f5cae961a76c77af0fb28024aa74a531db?urlpath=lab%2Ftree%2FTP1%2FTP1_E.ipynb)
