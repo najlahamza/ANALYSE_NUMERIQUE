@@ -28,7 +28,6 @@ et
  <img src="https://render.githubusercontent.com/render/math?math=k\in \{1,\ldots,n\}">
 
 
-<br>
 *  Principe de phénomène de Runge:
 
 Le phénomène de Runge est la conséquence de deux propriétés du problème. L'amplitude des dérivées de la fonction de Runge augmente très rapidement lorsque n augmente. L'équi-répartition des points d'interpolation mène à une constante de Lebesgue qui augmente très rapidement lorsque n augmente.
