@@ -3,11 +3,11 @@
 - [TP1]
 - [TP2]
 - [TP3]
-- 
+
 ## Requirements
 
-* [ANACONDA For windows][ANACONDA] 
-* [Jupyter][Jup]
+* [ANACONDA For windows]
+* [Jupyter]
 
 ## Themes
 
