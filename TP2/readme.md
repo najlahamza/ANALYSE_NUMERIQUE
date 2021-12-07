@@ -37,3 +37,6 @@ Le phénomène de Runge est la conséquence de deux propriétés du problème. L
 l'interpolation newtonienne, est une méthode d'interpolation polynomiale permettant d'obtenir le polynôme de Lagrange comme combinaison linéaire de polynômes de la « base newtonienne ».
 <br>
 l'interpolation polynomiale dans une base de Newton est une combinaison linéaire de polynômes appartenant à cette base.
+<br><br>
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/636f74a1f94f25f80f30341d80030f00e76e8aca?urlpath=lab%2Ftree%2FTP2%2FTP2_E.ipynb)
