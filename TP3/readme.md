@@ -52,3 +52,6 @@ On compare les 4 methodes par ces tableaux avec:
 <h2>conclusion</h2>
 <li>plus le nombre de subdivision n augmente plus l 'integral diminue et l'erreur commise diminue d'ou plus de precision de calcul</li>
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/main?labpath=https%3A%2F%2Fgithub.com%2Fnajlahamza%2FANALYSE_NUMERIQUE%2Fblob%2Fmain%2FTP3%2FExemple%2520TP3.ipynb)
+
+
