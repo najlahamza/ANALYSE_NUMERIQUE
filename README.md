@@ -1,7 +1,8 @@
-# NUM_ANALYSIS
+# ANALYSE NUMéRIQUE
 
 - TP1
 - TP2
+- TP3
 
 ## Requirements
 
