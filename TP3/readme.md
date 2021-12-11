@@ -48,3 +48,7 @@ On compare les 4 methodes par ces tableaux avec:
 |----------|----------------------|--------------------|--------------------|--------------------|
 | integral | 14.453812536604932   | 13.66424418451778  | 14.354592451227973 | 11.593653905746976 |
 | erreur   | -0.06614672358464269 | 0.7234216285025088 | 0.0330733617923169 | 2.7940119072733136 |
+
+<h2>conclusion</h2>
+<li>plus le nombre de subdivision n augmente plus l 'integral diminue et l'erreur commise diminue d'ou plus de precision de calcul</li>
+
