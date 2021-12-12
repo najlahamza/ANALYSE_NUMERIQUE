@@ -38,4 +38,4 @@ l'interpolation newtonienne, est une méthode d'interpolation polynomiale permet
 <br>
 l'interpolation polynomiale dans une base de Newton est une combinaison linéaire de polynômes appartenant à cette base.
 <br><br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/d9001fe99f41cd844ac74c327426c614786cc926?urlpath=lab%2Ftree%2FTP2%2FTP2_E.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/najlahamza/ANALYSE_NUMERIQUE/dab9b2e6f72c54384031d443ef077c16b6d9cc3c?urlpath=lab%2Ftree%2FTP2%2FTP2_E.ipynb)
